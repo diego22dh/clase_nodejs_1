@@ -1,4 +1,4 @@
-
+// lo dejo con strig anidado de response += para tener como ejemplo
 const theaters = require("../data/theatres.json");
 
 
